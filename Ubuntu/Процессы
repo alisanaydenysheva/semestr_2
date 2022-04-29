@@ -1,5 +1,5 @@
 Жизненный цикл процесса
-![image](https://user-images.githubusercontent.com/89997083/152748235-cb242aa5-50f5-46fb-aa7d-ffe9cdaae02c.png)
+[image](https://user-images.githubusercontent.com/89997083/152748235-cb242aa5-50f5-46fb-aa7d-ffe9cdaae02c.png)
 
 
 init первый процесс в системе.
@@ -14,7 +14,7 @@ Copy on write
 3)Для создания потока использутеся тот же системный вызов clone.
 
 Как появляется новый процесс: exec
-![image](https://user-images.githubusercontent.com/89997083/152748314-143d1aa6-f684-4b0c-aac5-3dd9d18a80e4.png)
+[image](https://user-images.githubusercontent.com/89997083/152748314-143d1aa6-f684-4b0c-aac5-3dd9d18a80e4.png)
 
 Смерть процессса
 1)Процесс заканчивается системным вызовом exit() либо сигналом завершения
